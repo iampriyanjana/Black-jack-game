@@ -1,6 +1,6 @@
 # Black-jack-game
 
-This is cards game made of HTML,CSS and javascript.
+This is a card game made of HTML,CSS and javascript.
 
 <img width="956" alt="inital image (2)" src="https://user-images.githubusercontent.com/88877947/211170900-7b2c145c-db08-4b46-95b1-efc00aefd086.png">
 
